@@ -1,0 +1,11 @@
+.footer-container{
+    padding: 1rem;
+    color: #ffffff4d;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+.footer-container a{
+    color: #00a5cb;
+    text-decoration: none;
+}
